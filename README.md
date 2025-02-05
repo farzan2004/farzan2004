@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farzan2004
 - 👀 I’m interested in c language python etc..
-- 🌱 I’m currently doing btech as a computer science studentat bit mesra. 
+- 🌱 I’m currently doing btech as a computer science student at bit mesra. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my gmail farzanrashid2004@gmail.com
 
